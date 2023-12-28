@@ -1,4 +1,4 @@
 Blog wordpress pour recenser mes divers petits projets.
 Abandonné assez vite (pas satisfait du format).
 
-https://gaspardberthelier.home.blog/
+[Lien du blog](https://gaspardberthelier.home.blog/)
